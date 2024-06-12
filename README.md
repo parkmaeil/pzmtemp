@@ -18,3 +18,6 @@
   
 1. [온라인Zoom] 실습과제-⭕부트캠프
 2. [오프라인Meeting] 멘토링 실습과제-⭕부트캠프
+
+## 위 저장소는 가장 최근에 실시간 강의 내용이 업데이트 됩니다.
+- https://github.com/parkmaeil/pzmtemp
